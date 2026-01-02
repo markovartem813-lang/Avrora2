@@ -1,0 +1,19 @@
+{
+  "name": "avrora-lite",
+  "version": "8.9.15-NO-THOUGHTS",
+  "description": "AVRORA - Self-Learning AI Admin (Lite)",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "discord.js": "^14.16.0",
+    "@google/genai": "*",
+    "dotenv": "^16.4.5",
+    "@discordjs/voice": "^0.16.0",
+    "ffmpeg-static": "^5.2.0",
+    "libsodium-wrappers": "^0.7.13",
+    "sodium-native": "^4.0.0",
+    "play-dl": "^1.9.6"
+  }
+}
